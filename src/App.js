@@ -1,6 +1,7 @@
 import "./App.css";
 import Confetti from "./Confetti";
 import logo from "./assets/TrendingTag-logo.png";
+import React from "react";
 
 const App = () => {
   return (
