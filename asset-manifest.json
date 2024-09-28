@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/preparedin/TheTrendingApp/static/css/main.f2ab0167.chunk.css",
-    "main.js": "/preparedin/TheTrendingApp/static/js/main.867483c0.chunk.js",
-    "main.js.map": "/preparedin/TheTrendingApp/static/js/main.867483c0.chunk.js.map",
-    "runtime~main.js": "/preparedin/TheTrendingApp/static/js/runtime~main.4efb0832.js",
-    "runtime~main.js.map": "/preparedin/TheTrendingApp/static/js/runtime~main.4efb0832.js.map",
-    "static/js/2.f981e53f.chunk.js": "/preparedin/TheTrendingApp/static/js/2.f981e53f.chunk.js",
-    "static/js/2.f981e53f.chunk.js.map": "/preparedin/TheTrendingApp/static/js/2.f981e53f.chunk.js.map",
-    "index.html": "/preparedin/TheTrendingApp/index.html",
-    "precache-manifest.1da4f2b556597918049a8c38dc4f6236.js": "/preparedin/TheTrendingApp/precache-manifest.1da4f2b556597918049a8c38dc4f6236.js",
-    "service-worker.js": "/preparedin/TheTrendingApp/service-worker.js",
-    "static/css/main.f2ab0167.chunk.css.map": "/preparedin/TheTrendingApp/static/css/main.f2ab0167.chunk.css.map",
-    "static/media/TrendingTag-logo.png": "/preparedin/TheTrendingApp/static/media/TrendingTag-logo.0798a95e.png"
+    "main.css": "/TheTrendingApp/static/css/main.f2ab0167.chunk.css",
+    "main.js": "/TheTrendingApp/static/js/main.867483c0.chunk.js",
+    "main.js.map": "/TheTrendingApp/static/js/main.867483c0.chunk.js.map",
+    "runtime~main.js": "/TheTrendingApp/static/js/runtime~main.d9587784.js",
+    "runtime~main.js.map": "/TheTrendingApp/static/js/runtime~main.d9587784.js.map",
+    "static/js/2.f981e53f.chunk.js": "/TheTrendingApp/static/js/2.f981e53f.chunk.js",
+    "static/js/2.f981e53f.chunk.js.map": "/TheTrendingApp/static/js/2.f981e53f.chunk.js.map",
+    "index.html": "/TheTrendingApp/index.html",
+    "precache-manifest.64cecf4be1bbb9cb3ba96e4351dcaee3.js": "/TheTrendingApp/precache-manifest.64cecf4be1bbb9cb3ba96e4351dcaee3.js",
+    "service-worker.js": "/TheTrendingApp/service-worker.js",
+    "static/css/main.f2ab0167.chunk.css.map": "/TheTrendingApp/static/css/main.f2ab0167.chunk.css.map",
+    "static/media/TrendingTag-logo.png": "/TheTrendingApp/static/media/TrendingTag-logo.0798a95e.png"
   }
 }
